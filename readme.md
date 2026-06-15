@@ -1,4 +1,4 @@
-# 1.2 - Funcional, perfecto
+## 1.3 - Funcional, perfecto
 
 # Caveman + Ponytail
 
