@@ -1,6 +1,4 @@
-## 1.3 - Funcional, perfecto
-
-# Caveman + Ponytail
+# Caveman + Ponytail + graphify
 
 
 Instalación: poner la carpeta .cursor/rules en la raiz del proyecto donde quiero que funcione, luego preguntarle a la IA si están activos
