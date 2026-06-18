@@ -1,0 +1,27 @@
+{
+  "guardar.py": {
+    "mtime": 1781740422.8655126,
+    "ast_hash": "0d0c520508c6cbf496cefa7b776d58a9",
+    "semantic_hash": ""
+  },
+  "README_PROMPTS.md": {
+    "mtime": 1781740414.913355,
+    "ast_hash": "6736ebc076909c89c7792b4ca2593f61",
+    "semantic_hash": ""
+  },
+  "readme.md": {
+    "mtime": 1781740391.1943305,
+    "ast_hash": "c6a5ba38aa3afff3be445ce4262314e5",
+    "semantic_hash": ""
+  },
+  "tutoriales/graphify_tutorial.md": {
+    "mtime": 1781745011.0750654,
+    "ast_hash": "bbd351f16bf0bfe0fb5cecadc4278f1b",
+    "semantic_hash": ""
+  },
+  "tutoriales/graphify_install.md": {
+    "mtime": 1781745696.8781888,
+    "ast_hash": "d881bfdcb3d3df80a1c30b7682e2652d",
+    "semantic_hash": ""
+  }
+}

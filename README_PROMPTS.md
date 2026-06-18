@@ -1,4 +1,4 @@
-## 1.4 - Funcional, perfecto - Caveman + Ponytail + graphify (se añade graphify)
+## 1.5 - Graphify funcional, con guias
 
 
 # Caveman + Ponytail + graphify

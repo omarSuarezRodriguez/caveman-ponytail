@@ -1,0 +1,973 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "guardar.py",
+      "file_type": "code",
+      "source_file": "guardar.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "guardar",
+      "community": 364,
+      "norm_label": "guardar.py"
+    },
+    {
+      "label": "commit_message()",
+      "file_type": "code",
+      "source_file": "guardar.py",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "guardar_commit_message",
+      "community": 364,
+      "norm_label": "commit_message()"
+    },
+    {
+      "label": "git()",
+      "file_type": "code",
+      "source_file": "guardar.py",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "guardar_git",
+      "community": 364,
+      "norm_label": "git()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "guardar.py",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "guardar_main",
+      "community": 364,
+      "norm_label": "main()"
+    },
+    {
+      "label": "Git save: add, commit (versi\u00f3n del README), push.",
+      "file_type": "rationale",
+      "source_file": "guardar.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "guardar_rationale_1",
+      "community": 364,
+      "norm_label": "git save: add, commit (version del readme), push."
+    },
+    {
+      "label": "README_PROMPTS.md",
+      "file_type": "document",
+      "source_file": "README_PROMPTS.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_prompts",
+      "community": 519,
+      "norm_label": "readme_prompts.md"
+    },
+    {
+      "label": "1.4 - Funcional, perfecto - Caveman + Ponytail + graphify (se a\u00f1ade graphify)",
+      "file_type": "document",
+      "source_file": "README_PROMPTS.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_prompts_1_4_funcional_perfecto_caveman_ponytail_graphify_se_a\u00f1ade_graphify",
+      "community": 519,
+      "norm_label": "1.4 - funcional, perfecto - caveman + ponytail + graphify (se anade graphify)"
+    },
+    {
+      "label": "Caveman + Ponytail + graphify",
+      "file_type": "document",
+      "source_file": "README_PROMPTS.md",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "readme_prompts_caveman_ponytail_graphify",
+      "community": 519,
+      "norm_label": "caveman + ponytail + graphify"
+    },
+    {
+      "label": "readme.md",
+      "file_type": "document",
+      "source_file": "readme.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 518,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Caveman + Ponytail + graphify",
+      "file_type": "document",
+      "source_file": "readme.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_caveman_ponytail_graphify",
+      "community": 518,
+      "norm_label": "caveman + ponytail + graphify"
+    },
+    {
+      "label": "Proposito:",
+      "file_type": "document",
+      "source_file": "readme.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "readme_proposito",
+      "community": 518,
+      "norm_label": "proposito:"
+    },
+    {
+      "label": "graphify_install.md",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_install.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_install",
+      "community": 3,
+      "norm_label": "graphify_install.md"
+    },
+    {
+      "label": "graphify_tutorial.md",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial",
+      "community": 118,
+      "norm_label": "graphify_tutorial.md"
+    },
+    {
+      "label": "Comandos en terminal",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_comandos_en_terminal",
+      "community": 118,
+      "norm_label": "comandos en terminal"
+    },
+    {
+      "label": "Proyecto nuevo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_proyecto_nuevo",
+      "community": 118,
+      "norm_label": "proyecto nuevo"
+    },
+    {
+      "label": "ACTIVAR GRAPHIFY #",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_activar_graphify",
+      "community": 118,
+      "norm_label": "activar graphify #"
+    },
+    {
+      "label": "generar grafo inicial del c\u00f3digo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_generar_grafo_inicial_del_c\u00f3digo",
+      "community": 118,
+      "norm_label": "generar grafo inicial del codigo"
+    },
+    {
+      "label": "verificar salida generada",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_verificar_salida_generada",
+      "community": 118,
+      "norm_label": "verificar salida generada"
+    },
+    {
+      "label": "ver arquitectura general del sistema",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_arquitectura_general_del_sistema",
+      "community": 118,
+      "norm_label": "ver arquitectura general del sistema"
+    },
+    {
+      "label": "PRIMERA EXPLORACI\u00d3N INTELIGENTE # (query no es obligatorio)",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_primera_exploraci\u00f3n_inteligente_query_no_es_obligatorio",
+      "community": 118,
+      "norm_label": "primera exploracion inteligente # (query no es obligatorio)"
+    },
+    {
+      "label": "encontrar entry point del sistema",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_encontrar_entry_point_del_sistema",
+      "community": 118,
+      "norm_label": "encontrar entry point del sistema"
+    },
+    {
+      "label": "entender arquitectura general",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_entender_arquitectura_general",
+      "community": 118,
+      "norm_label": "entender arquitectura general"
+    },
+    {
+      "label": "ver capa de negocio / l\u00f3gica principal",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_capa_de_negocio_l\u00f3gica_principal",
+      "community": 118,
+      "norm_label": "ver capa de negocio / logica principal"
+    },
+    {
+      "label": "EXPLORACI\u00d3N DE DEPENDENCIAS # (no obligatorio, es an\u00e1lisis)",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_exploraci\u00f3n_de_dependencias_no_obligatorio_es_an\u00e1lisis",
+      "community": 118,
+      "norm_label": "exploracion de dependencias # (no obligatorio, es analisis)"
+    },
+    {
+      "label": "ver relaci\u00f3n entre componentes cr\u00edticos",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L39",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_relaci\u00f3n_entre_componentes_cr\u00edticos",
+      "community": 118,
+      "norm_label": "ver relacion entre componentes criticos"
+    },
+    {
+      "label": "FLUJO NORMAL DESPU\u00c9S DE ESTO # (solo hay que hacer este comando una vez inicializado el proyecto)",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L46",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_flujo_normal_despu\u00e9s_de_esto_solo_hay_que_hacer_este_comando_una_vez_inicializado_el_proyecto",
+      "community": 118,
+      "norm_label": "flujo normal despues de esto # (solo hay que hacer este comando una vez inicializado el proyecto)"
+    },
+    {
+      "label": "cuando cambias c\u00f3digo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L48",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_cuando_cambias_c\u00f3digo",
+      "community": 118,
+      "norm_label": "cuando cambias codigo"
+    },
+    {
+      "label": "Explorar / entender cualquier parte del sistema # (no obligatorio)",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L54",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_explorar_entender_cualquier_parte_del_sistema_no_obligatorio",
+      "community": 2,
+      "norm_label": "explorar / entender cualquier parte del sistema # (no obligatorio)"
+    },
+    {
+      "label": "Rotaci\u00f3n inicial",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L70",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_rotaci\u00f3n_inicial",
+      "community": 2,
+      "norm_label": "rotacion inicial"
+    },
+    {
+      "label": "Spell 1: Escanear proyecto nuevo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L72",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_1_escanear_proyecto_nuevo",
+      "community": 118,
+      "norm_label": "spell 1: escanear proyecto nuevo"
+    },
+    {
+      "label": "Spell 2: Instalar integraci\u00f3n con Cursor",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L75",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_2_instalar_integraci\u00f3n_con_cursor",
+      "community": 118,
+      "norm_label": "spell 2: instalar integracion con cursor"
+    },
+    {
+      "label": "Spell 3: Preguntar arquitectura",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L78",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_3_preguntar_arquitectura",
+      "community": 118,
+      "norm_label": "spell 3: preguntar arquitectura"
+    },
+    {
+      "label": "Spell 4: Entender un componente",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L81",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_4_entender_un_componente",
+      "community": 118,
+      "norm_label": "spell 4: entender un componente"
+    },
+    {
+      "label": "Spell 5: Ver impacto antes de tocar c\u00f3digo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L84",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_5_ver_impacto_antes_de_tocar_c\u00f3digo",
+      "community": 118,
+      "norm_label": "spell 5: ver impacto antes de tocar codigo"
+    },
+    {
+      "label": "Spell 6: Actualizar conocimiento",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L87",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_spell_6_actualizar_conocimiento",
+      "community": 118,
+      "norm_label": "spell 6: actualizar conocimiento"
+    },
+    {
+      "label": "Proyecto nuevo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L94",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_proyecto_nuevo_94",
+      "community": 118,
+      "norm_label": "proyecto nuevo"
+    },
+    {
+      "label": "Empiezas a trabajar",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L98",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_empiezas_a_trabajar",
+      "community": 118,
+      "norm_label": "empiezas a trabajar"
+    },
+    {
+      "label": "Antes de refactorizar",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L102",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_antes_de_refactorizar",
+      "community": 118,
+      "norm_label": "antes de refactorizar"
+    },
+    {
+      "label": "Despu\u00e9s de cambios grandes",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L105",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_despu\u00e9s_de_cambios_grandes",
+      "community": 1,
+      "norm_label": "despues de cambios grandes"
+    },
+    {
+      "label": "Resumen de mejores comandos",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L112",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_resumen_de_mejores_comandos",
+      "community": 1,
+      "norm_label": "resumen de mejores comandos"
+    },
+    {
+      "label": "Generar el mapa/grafo del proyecto",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L114",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_generar_el_mapa_grafo_del_proyecto",
+      "community": 118,
+      "norm_label": "generar el mapa/grafo del proyecto"
+    },
+    {
+      "label": "Actualizar el mapa despu\u00e9s de cambios",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L117",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_actualizar_el_mapa_despu\u00e9s_de_cambios",
+      "community": 118,
+      "norm_label": "actualizar el mapa despues de cambios"
+    },
+    {
+      "label": "Hacer preguntas sobre el proyecto",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L120",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_hacer_preguntas_sobre_el_proyecto",
+      "community": 118,
+      "norm_label": "hacer preguntas sobre el proyecto"
+    },
+    {
+      "label": "Explicar un componente",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L123",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_explicar_un_componente",
+      "community": 118,
+      "norm_label": "explicar un componente"
+    },
+    {
+      "label": "Ver relaci\u00f3n entre dos componentes",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L126",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_relaci\u00f3n_entre_dos_componentes",
+      "community": 118,
+      "norm_label": "ver relacion entre dos componentes"
+    },
+    {
+      "label": "Ver qu\u00e9 se afecta si modificas algo",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L129",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_qu\u00e9_se_afecta_si_modificas_algo",
+      "community": 118,
+      "norm_label": "ver que se afecta si modificas algo"
+    },
+    {
+      "label": "Mantener el mapa actualizado autom\u00e1ticamente",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L132",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_mantener_el_mapa_actualizado_autom\u00e1ticamente",
+      "community": 118,
+      "norm_label": "mantener el mapa actualizado automaticamente"
+    },
+    {
+      "label": "Ver ayuda",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L135",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_ver_ayuda",
+      "community": 0,
+      "norm_label": "ver ayuda"
+    },
+    {
+      "label": "All Commands:",
+      "file_type": "document",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L144",
+      "_origin": "ast",
+      "id": "tutoriales_graphify_tutorial_all_commands",
+      "community": 0,
+      "norm_label": "all commands:"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar",
+      "target": "guardar_commit_message"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar",
+      "target": "guardar_git"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar",
+      "target": "guardar_main"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar_rationale_1",
+      "target": "guardar"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar_main",
+      "target": "guardar_commit_message"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "guardar.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "guardar_main",
+      "target": "guardar_git"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README_PROMPTS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_prompts",
+      "target": "readme_prompts_1_4_funcional_perfecto_caveman_ponytail_graphify_se_a\u00f1ade_graphify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README_PROMPTS.md",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_prompts",
+      "target": "readme_prompts_caveman_ponytail_graphify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "readme.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme",
+      "target": "readme_caveman_ponytail_graphify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "readme.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_caveman_ponytail_graphify",
+      "target": "readme_proposito"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_activar_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_actualizar_el_mapa_despu\u00e9s_de_cambios"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_antes_de_refactorizar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_comandos_en_terminal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_cuando_cambias_c\u00f3digo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_despu\u00e9s_de_cambios_grandes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_empiezas_a_trabajar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_encontrar_entry_point_del_sistema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_entender_arquitectura_general",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_explicar_un_componente"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_exploraci\u00f3n_de_dependencias_no_obligatorio_es_an\u00e1lisis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_explorar_entender_cualquier_parte_del_sistema_no_obligatorio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_flujo_normal_despu\u00e9s_de_esto_solo_hay_que_hacer_este_comando_una_vez_inicializado_el_proyecto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_generar_el_mapa_grafo_del_proyecto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_generar_grafo_inicial_del_c\u00f3digo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_hacer_preguntas_sobre_el_proyecto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_mantener_el_mapa_actualizado_autom\u00e1ticamente"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_primera_exploraci\u00f3n_inteligente_query_no_es_obligatorio",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_proyecto_nuevo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_proyecto_nuevo_94",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_rotaci\u00f3n_inicial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_1_escanear_proyecto_nuevo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_2_instalar_integraci\u00f3n_con_cursor"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_3_preguntar_arquitectura"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_4_entender_un_componente"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_5_ver_impacto_antes_de_tocar_c\u00f3digo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_spell_6_actualizar_conocimiento"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_arquitectura_general_del_sistema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L72",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_ayuda"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_capa_de_negocio_l\u00f3gica_principal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L66",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_qu\u00e9_se_afecta_si_modificas_algo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_relaci\u00f3n_entre_componentes_cr\u00edticos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_ver_relaci\u00f3n_entre_dos_componentes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial",
+      "target": "tutoriales_graphify_tutorial_verificar_salida_generada",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "tutoriales_graphify_tutorial_explorar_entender_cualquier_parte_del_sistema_no_obligatorio",
+      "target": "tutoriales_graphify_tutorial_rotaci\u00f3n_inicial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial_despu\u00e9s_de_cambios_grandes",
+      "target": "tutoriales_graphify_tutorial_resumen_de_mejores_comandos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tutoriales/graphify_tutorial.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tutoriales_graphify_tutorial_ver_ayuda",
+      "target": "tutoriales_graphify_tutorial_all_commands"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "46bac3d0b14f30788b924e79a5fa91d9dc41eca1"
+}
